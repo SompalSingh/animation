@@ -1,0 +1,15 @@
+body {
+  font-family: Roboto;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.bodymovinanim {
+  width: 25%;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
